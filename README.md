@@ -1,22 +1,26 @@
-#  E-Commerce Website Manual Testing  
-This project showcases **manual testing** of an **E-Commerce Website**, including functional and UI Testing.
+# E-Commerce Website Testing (Manual QA)  
 
-##  Scope of Testing  
- Functional Testing – Login, Cart, Checkout, Payment  
- UI Testing – Layout, responsiveness, broken links  
- Security Testing – SQL Injection, session expiration  
+## Project Overview  
+This project contains manual testing documentation for an **OpenCart-based e-commerce website**. It includes test cases, bug reports, and a test plan to ensure the website functions correctly.  
 
-##  Project Files  
-- **TestCases.xlsx** – Test cases for different scenarios  
-- **BugReports.docx** – Documented bugs with screenshots  
-- **TestPlan.md** – Strategy and scope of testing  
-- **Security_Testing.md** – Security testing checklist  
+## Project Scope  
+- Functional Testing (Login, Cart, Checkout, Payment)  
+- UI/UX Testing  
+- Regression Testing  
 
-##  Test Execution Summary  
- **Total Test Cases:** 30  
-✅ **Passed:** 25  
-❌ **Failed:** 5  
- **Bugs Found:** 3  
+## Folder Structure  
+ **TestCases/** → Contains test case documents (TestCases.xlsx)  
+ **BugReports/** → Contains bug reports (BugReports.docx)  
+ **TestPlan.md** → Overall test plan for the project  
 
-## 🔗 Contact  
-Abhijith P – QA Engineer  
+## Tools & Technologies  
+- **Test Management**: JIRA, TestRail  
+- **Bug Tracking**: JIRA  
+- **Browser Testing**: Chrome DevTools  
+- **Database Testing**: SQL  
+
+## How to Use This Repository  
+1. Download **TestCases.xlsx** and review the test scenarios.  
+2. Check **BugReports.docx** for reported issues and reproduction steps.  
+3. Refer to **TestPlan.md** for an overview of the testing process.  
+
